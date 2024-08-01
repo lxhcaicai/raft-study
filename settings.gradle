@@ -1,0 +1,5 @@
+rootProject.name = 'raft-study'
+include 'client'
+include 'common'
+include 'server'
+
